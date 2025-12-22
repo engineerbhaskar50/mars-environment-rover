@@ -3,9 +3,6 @@
 A beginner-friendly autonomous rover inspired by NASA Mars rovers.  
 This robot navigates its environment, avoids obstacles, and collects basic environmental data such as temperature, light intensity, and distance.
 
-Built for the **Hack Club Blueprint Hardware Hackathon**.
-
----
 
 ## 🧠 Project Idea
 
