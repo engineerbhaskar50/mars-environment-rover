@@ -1,0 +1,13 @@
+Item,Model,Quantity,Notes
+Microcontroller,Arduino Uno R3,1,Main controller
+Motor Driver,L298N Dual H-Bridge Module,1,Controls motors
+DC Motors,6V BO Geared Motor,2,Wheel drive
+Wheels,65mm Robot Wheels,2,Attach to motors
+Ultrasonic Sensor,HC-SR04,1,Obstacle detection
+Temperature Sensor,DHT11 Module,1,Environmental sensing
+Light Sensor,GL5528 LDR,1,Light measurement
+Resistor,10k Ohm,1,For LDR voltage divider
+Battery,18650 Li-ion,2,Power supply
+Battery Holder,2x18650 Holder,1,Battery mount
+Jumper Wires,Dupont wires,20,Connections
+Robot Chassis,2WD Plate,1,Mount components

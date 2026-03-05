@@ -1,0 +1,27 @@
+
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+<rect x="80" y="250" width="180" height="80" stroke="black" fill="none"/>
+<text x="110" y="295">Arduino Uno</text>
+
+<rect x="350" y="250" width="180" height="80" stroke="black" fill="none"/>
+<text x="390" y="295">L298N Driver</text>
+
+<rect x="650" y="250" width="150" height="80" stroke="black" fill="none"/>
+<text x="690" y="295">Motors</text>
+
+<rect x="80" y="80" width="160" height="70" stroke="black" fill="none"/>
+<text x="100" y="120">HC-SR04</text>
+
+<rect x="320" y="80" width="160" height="70" stroke="black" fill="none"/>
+<text x="350" y="120">DHT11</text>
+
+<rect x="560" y="80" width="160" height="70" stroke="black" fill="none"/>
+<text x="610" y="120">LDR</text>
+
+<line x1="260" y1="290" x2="350" y2="290" stroke="black"/>
+<line x1="530" y1="290" x2="650" y2="290" stroke="black"/>
+
+<line x1="170" y1="250" x2="160" y2="150" stroke="black"/>
+<line x1="420" y1="250" x2="400" y2="150" stroke="black"/>
+<line x1="720" y1="250" x2="640" y2="150" stroke="black"/>
+</svg>
