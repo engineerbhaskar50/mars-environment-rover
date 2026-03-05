@@ -61,7 +61,7 @@ My room becomes **Mars terrain** 🌍➡️🌑
 - Distance to obstacle (cm)
 - Timestamp
 
-Sample data is available in `rover_data_sample.csv`.
+
 
 ---
 
